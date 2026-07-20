@@ -1,0 +1,15 @@
+[0.535s] Invoking command in '/home/het/nexus_ws/build/mission_controller': PYTHONPATH=/home/het/nexus_ws/build/mission_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/het/nexus_ws/install/mission_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/het/nexus_ws/build/mission_controller/build --no-deps
+[0.677s] running develop
+[0.775s] running egg_info
+[0.775s] writing mission_controller.egg-info/PKG-INFO
+[0.777s] writing dependency_links to mission_controller.egg-info/dependency_links.txt
+[0.777s] writing entry points to mission_controller.egg-info/entry_points.txt
+[0.777s] writing top-level names to mission_controller.egg-info/top_level.txt
+[0.778s] reading manifest file 'mission_controller.egg-info/SOURCES.txt'
+[0.779s] writing manifest file 'mission_controller.egg-info/SOURCES.txt'
+[0.779s] running build_ext
+[0.779s] Creating /home/het/nexus_ws/install/mission_controller/lib/python3.10/site-packages/mission-controller.egg-link (link to .)
+[0.780s] Installing mission_node script to /home/het/nexus_ws/install/mission_controller/bin
+[0.780s] 
+[0.780s] Installed /home/het/nexus_ws/build/mission_controller
+[0.794s] Invoked command in '/home/het/nexus_ws/build/mission_controller' returned '0': PYTHONPATH=/home/het/nexus_ws/build/mission_controller/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/het/nexus_ws/install/mission_controller/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py develop --editable --build-directory /home/het/nexus_ws/build/mission_controller/build --no-deps

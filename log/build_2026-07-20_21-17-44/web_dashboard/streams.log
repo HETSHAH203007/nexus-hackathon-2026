@@ -1,0 +1,33 @@
+[0.543s] Invoking command in '/home/het/nexus_ws/src/web_dashboard': PYTHONPATH=/home/het/nexus_ws/build/web_dashboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/web_dashboard build --build-base /home/het/nexus_ws/build/web_dashboard/build install --record /home/het/nexus_ws/build/web_dashboard/install.log --single-version-externally-managed install_data
+[0.674s] running egg_info
+[0.675s] writing ../../build/web_dashboard/web_dashboard.egg-info/PKG-INFO
+[0.676s] writing dependency_links to ../../build/web_dashboard/web_dashboard.egg-info/dependency_links.txt
+[0.676s] writing entry points to ../../build/web_dashboard/web_dashboard.egg-info/entry_points.txt
+[0.676s] writing requirements to ../../build/web_dashboard/web_dashboard.egg-info/requires.txt
+[0.676s] writing top-level names to ../../build/web_dashboard/web_dashboard.egg-info/top_level.txt
+[0.677s] reading manifest file '../../build/web_dashboard/web_dashboard.egg-info/SOURCES.txt'
+[0.677s] writing manifest file '../../build/web_dashboard/web_dashboard.egg-info/SOURCES.txt'
+[0.677s] running build
+[0.677s] running build_py
+[0.677s] creating /home/het/nexus_ws/build/web_dashboard/build
+[0.677s] creating /home/het/nexus_ws/build/web_dashboard/build/lib
+[0.677s] creating /home/het/nexus_ws/build/web_dashboard/build/lib/web_dashboard
+[0.677s] copying web_dashboard/__init__.py -> /home/het/nexus_ws/build/web_dashboard/build/lib/web_dashboard
+[0.677s] copying web_dashboard/web_server.py -> /home/het/nexus_ws/build/web_dashboard/build/lib/web_dashboard
+[0.678s] running install
+[0.678s] running install_lib
+[0.678s] creating /home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard
+[0.678s] copying /home/het/nexus_ws/build/web_dashboard/build/lib/web_dashboard/__init__.py -> /home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard
+[0.678s] copying /home/het/nexus_ws/build/web_dashboard/build/lib/web_dashboard/web_server.py -> /home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard
+[0.678s] byte-compiling /home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard/__init__.py to __init__.cpython-310.pyc
+[0.678s] byte-compiling /home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard/web_server.py to web_server.cpython-310.pyc
+[0.680s] running install_data
+[0.680s] copying resource/web_dashboard -> /home/het/nexus_ws/install/web_dashboard/share/ament_index/resource_index
+[0.680s] copying package.xml -> /home/het/nexus_ws/install/web_dashboard/share/web_dashboard
+[0.680s] running install_egg_info
+[0.681s] removing '/home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard-2.0.0-py3.10.egg-info' (and everything under it)
+[0.681s] Copying ../../build/web_dashboard/web_dashboard.egg-info to /home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard-2.0.0-py3.10.egg-info
+[0.681s] running install_scripts
+[0.692s] Installing web_server script to /home/het/nexus_ws/install/web_dashboard/bin
+[0.693s] writing list of installed files to '/home/het/nexus_ws/build/web_dashboard/install.log'
+[0.708s] Invoked command in '/home/het/nexus_ws/src/web_dashboard' returned '0': PYTHONPATH=/home/het/nexus_ws/build/web_dashboard/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/web_dashboard build --build-base /home/het/nexus_ws/build/web_dashboard/build install --record /home/het/nexus_ws/build/web_dashboard/install.log --single-version-externally-managed install_data

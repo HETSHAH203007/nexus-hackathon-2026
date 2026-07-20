@@ -1,0 +1,3 @@
+[console_scripts]
+web_server = web_dashboard.web_server:main
+

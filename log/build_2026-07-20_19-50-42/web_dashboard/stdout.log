@@ -1,0 +1,20 @@
+running egg_info
+creating ../../build/web_dashboard/web_dashboard.egg-info
+writing ../../build/web_dashboard/web_dashboard.egg-info/PKG-INFO
+writing dependency_links to ../../build/web_dashboard/web_dashboard.egg-info/dependency_links.txt
+writing entry points to ../../build/web_dashboard/web_dashboard.egg-info/entry_points.txt
+writing requirements to ../../build/web_dashboard/web_dashboard.egg-info/requires.txt
+writing top-level names to ../../build/web_dashboard/web_dashboard.egg-info/top_level.txt
+writing manifest file '../../build/web_dashboard/web_dashboard.egg-info/SOURCES.txt'
+reading manifest file '../../build/web_dashboard/web_dashboard.egg-info/SOURCES.txt'
+writing manifest file '../../build/web_dashboard/web_dashboard.egg-info/SOURCES.txt'
+running build
+running install
+running install_data
+copying resource/web_dashboard -> /home/het/nexus_ws/install/web_dashboard/share/ament_index/resource_index
+copying package.xml -> /home/het/nexus_ws/install/web_dashboard/share/web_dashboard
+running install_egg_info
+Copying ../../build/web_dashboard/web_dashboard.egg-info to /home/het/nexus_ws/install/web_dashboard/lib/python3.10/site-packages/web_dashboard-2.0.0-py3.10.egg-info
+running install_scripts
+Installing web_server script to /home/het/nexus_ws/install/web_dashboard/bin
+writing list of installed files to '/home/het/nexus_ws/build/web_dashboard/install.log'
