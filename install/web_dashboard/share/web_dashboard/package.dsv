@@ -1,0 +1,12 @@
+source;share/web_dashboard/hook/path.ps1
+source;share/web_dashboard/hook/path.dsv
+source;share/web_dashboard/hook/path.sh
+source;share/web_dashboard/hook/pythonpath.ps1
+source;share/web_dashboard/hook/pythonpath.dsv
+source;share/web_dashboard/hook/pythonpath.sh
+source;share/web_dashboard/hook/pythonscriptspath.ps1
+source;share/web_dashboard/hook/pythonscriptspath.dsv
+source;share/web_dashboard/hook/pythonscriptspath.sh
+source;share/web_dashboard/hook/ament_prefix_path.ps1
+source;share/web_dashboard/hook/ament_prefix_path.dsv
+source;share/web_dashboard/hook/ament_prefix_path.sh

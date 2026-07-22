@@ -1,0 +1,13 @@
+running develop
+running egg_info
+writing mission_controller.egg-info/PKG-INFO
+writing dependency_links to mission_controller.egg-info/dependency_links.txt
+writing entry points to mission_controller.egg-info/entry_points.txt
+writing top-level names to mission_controller.egg-info/top_level.txt
+reading manifest file 'mission_controller.egg-info/SOURCES.txt'
+writing manifest file 'mission_controller.egg-info/SOURCES.txt'
+running build_ext
+Creating /home/het/nexus_ws/install/mission_controller/lib/python3.10/site-packages/mission-controller.egg-link (link to .)
+Installing mission_node script to /home/het/nexus_ws/install/mission_controller/bin
+
+Installed /home/het/nexus_ws/build/mission_controller

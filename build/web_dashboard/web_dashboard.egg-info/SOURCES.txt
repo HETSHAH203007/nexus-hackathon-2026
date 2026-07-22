@@ -1,0 +1,12 @@
+package.xml
+setup.py
+../../build/web_dashboard/web_dashboard.egg-info/PKG-INFO
+../../build/web_dashboard/web_dashboard.egg-info/SOURCES.txt
+../../build/web_dashboard/web_dashboard.egg-info/dependency_links.txt
+../../build/web_dashboard/web_dashboard.egg-info/entry_points.txt
+../../build/web_dashboard/web_dashboard.egg-info/requires.txt
+../../build/web_dashboard/web_dashboard.egg-info/top_level.txt
+../../build/web_dashboard/web_dashboard.egg-info/zip-safe
+resource/web_dashboard
+web_dashboard/__init__.py
+web_dashboard/web_server.py
